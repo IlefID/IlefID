@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning advanced Python and web technologies
 - 👯 I’m looking to collaborate on open-source and freelance-related tools
 - 💬 Ask me about anything related to Python, Selenium, or web scraping
-- 📫 How to reach me: ilefidoudi3@gmail.com
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white) https://www.linkedin.com/in/idoudi-ilef/
+- 📫 How to reach me: ilefidoudi3@gmail.com  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/idoudi-ilef/)
 
 
 ### 🚀 Technologies & Tools
