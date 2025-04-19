@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there 👋 I'm Ilef
 
-<!--
-**IlefID/IlefID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 About Me
+- 🔭 I’m currently working on web scraping and automation projects
+- 🌱 I’m currently learning advanced Python and web technologies
+- 👯 I’m looking to collaborate on open-source and freelance-related tools
+- 💬 Ask me about anything related to Python, Selenium, or web scraping
+- 📫 How to reach me: [Your Email or LinkedIn]
 
-Here are some ideas to get you started:
+### 🚀 Technologies & Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![Ilef's GitHub stats](https://github-readme-stats.vercel.app/api?username=IlefID&show_icons=true&theme=radical)
+
+---
+
+_Thanks for visiting my profile! Let's build something amazing together 🚀_
