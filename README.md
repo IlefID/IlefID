@@ -7,10 +7,7 @@ Je suis curieuse, impliquée, et toujours motivée à apprendre de nouvelles tec
 
 ### 💻 About Me
 - 🎯 Spécialisée en développement des systèmes d'information
-- 🔍 Intéressée par le **web scraping**, l’**automatisation** et l’**intelligence artificielle**
-- 🔭 Projets récents : scraping d’offres freelance, automatisation de recherches avec Python/Selenium
-- 💡 Expérience en développement WordPress (plugin de réservation pour services de voyage)
-- 🌍 Participation à un programme de volontariat en Égypte avec AIESEC
+- 🔍 Intéressée par l’**intelligence artificielle**
 - 📫 Contact : ilefidoudi3@gmail.com  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-idoudi--ilef-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/idoudi-ilef/)
 - [![GitHub](https://img.shields.io/badge/GitHub-IlefID-181717?style=flat&logo=github&logoColor=white)](https://github.com/IlefID)
@@ -52,15 +49,7 @@ Je suis curieuse, impliquée, et toujours motivée à apprendre de nouvelles tec
 
 ---
 
-### 🏅 Certifications & Projets
 
-- ✅ **Web Scraping et automatisation avec Python** – Udemy  
-- ✅ **Python pour la Data** – Udemy  
-- 🏆 **Hult Prize** – Compétition internationale  
-- 🌍 **Volontariat AIESEC** – Égypte  
-- 🗣️ **Youth Speak - Maghreb4SDGs**  
-- 🚀 **Hack Your Career (AIESEC)**  
-- 🎯 **Leadership Development Experience**
 
 ---
 
