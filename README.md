@@ -49,14 +49,4 @@ Je suis curieuse, impliquée, et toujours motivée à apprendre de nouvelles tec
 
 ---
 
-
-
----
-
-### 📊 GitHub Stats
-
-![Ilef's GitHub stats](https://github-readme-stats.vercel.app/api?username=IlefID&show_icons=true&theme=radical)
-
----
-
 _Thanks for visiting my profile! Let's build something amazing together 🚀_
