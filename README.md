@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Ilef
 
-🎓 Étudiante en 3ème année de Licence en Technologies de l’Informatique à l'ISET de Mahdia, passionnée par le développement web, le scraping, l’IA et les systèmes d’information.  
+🎓 Étudiante en 1ere annee Master Data Sciences a ISSAT Gafsa, passionnée par le développement web, le scraping, l’IA et les systèmes d’information.  
 Je suis curieuse, impliquée, et toujours motivée à apprendre de nouvelles technologies tout en contribuant à des projets concrets.
 
 ---
